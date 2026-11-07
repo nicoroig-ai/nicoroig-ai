@@ -6,7 +6,7 @@ Mostly TypeScript and Postgres, and a working knowledge of the parts of an integ
 
 ### Projects
 
-Four systems, each written up with its architecture and the decisions behind it → **[nicoroig-ai.github.io/portfolio](https://nicoroig-ai.github.io/portfolio/)**
+Four systems, each written up with its architecture and the decisions behind it → **[nicoroig.dev](https://nicoroig.dev)**
 
 | | |
 |---|---|
@@ -35,4 +35,4 @@ Each one was extracted from a platform in production, rewritten and tested on it
 
 ---
 
-📫 [nicoroigmeseguer@gmail.com](mailto:nicoroigmeseguer@gmail.com) · 🌐 [portfolio](https://nicoroig-ai.github.io/portfolio/)
+📫 [nicoroigmeseguer@gmail.com](mailto:nicoroigmeseguer@gmail.com) · 🌐 [nicoroig.dev](https://nicoroig.dev)
