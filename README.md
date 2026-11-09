@@ -6,14 +6,13 @@ Mostly TypeScript and Postgres, and a working knowledge of the parts of an integ
 
 ### Projects
 
-Four systems, each written up with its architecture and the decisions behind it → **[nicoroig.dev](https://nicoroig.dev)**
+Projects, each written up with its architecture and the decisions behind it → **[nicoroig.dev](https://nicoroig.dev)**
 
 | | |
 |---|---|
 | **AI messaging** · real estate | An assistant that answers an agency's own WhatsApp, Instagram and phone line — qualifies leads, searches their property catalogue, books viewings, follows up, hands over to a human when it should. Co-founder and technical lead; one codebase and one database serving every agency. Ran a paying client's live inbound channel in production. |
 | **Purchasing** · hospitality | Predicts what a restaurant's kitchen will sell, turns that into what must be bought from each supplier before each delivery cut-off, and puts a ready-to-send order in front of the chef instead of a dashboard. Ran in production. |
 | **Tax-law research** · tax & legal | A desktop tool that replaces a manual browser workflow: searches the tax authority's public rulings database, reads each ruling in full, extracts the official answer and gathers the related court criteria into a spreadsheet. Runs on a locked-down corporate machine with nothing installed and no credentials. |
-| **Cognitive training** · learning | Spaced repetition and adaptive working-memory training in one app, honest about which of the two does what. Fully offline with no account; signing up later adopts the history you already have. |
 
 ### Open source
 
